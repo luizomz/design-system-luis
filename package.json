@@ -1,7 +1,7 @@
 {
-  "name": "design-system",
+  "name": "mich",
   "version": "1.0.0",
-  "description": "Design System",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
